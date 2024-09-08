@@ -21,6 +21,7 @@
             base.Dispose(disposing);
         }
 /// check something
+/// change 2
         #region Windows Form Designer generated code
 
         /// <summary>
